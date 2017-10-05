@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/mishra14
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ankitmishra.me
+  * I am mishra14 (https://keybase.io/mishra14) on keybase.
+  * I have a public key ASCEGLtFJGngusjsrzhhVwesldBzgQThzESJ7NB6xuxnoQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208418bb452469e0bac8ecaf38615707ac95d0738104e1cc4489ecd07ac6ec67a10a",
+      "host": "keybase.io",
+      "kid": "01208418bb452469e0bac8ecaf38615707ac95d0738104e1cc4489ecd07ac6ec67a10a",
+      "uid": "e1535690276cdd2af9bfd65a4f245e19",
+      "username": "mishra14"
+    },
+    "merkle_root": {
+      "ctime": 1507159539,
+      "hash": "c1c4a37d8e4d414182faa56e72f166dfa0ccade01133520008ee2cff1e5e31ff3031a55361812388ff6be6fc22d810797d2d12899e221e7c0a4a5aebc5bf11d1",
+      "hash_meta": "fc270d21ed17bd6b3a2c100fe10159e058a06f20865e8c1834b97ef24ea7e570",
+      "seqno": 1502767
+    },
+    "service": {
+      "hostname": "ankitmishra.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1507159560,
+  "expire_in": 504576000,
+  "prev": "9d75762fbd71f0f4a10e48ae3f94b7fa4d59ce483310f6e50a7432d352a23663",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghBi7RSRp4LrI7K84YVcHrJXQc4EE4cxEiezQesbsZ6EKp3BheWxvYWTFA0Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwODQxOGJiNDUyNDY5ZTBiYWM4ZWNhZjM4NjE1NzA3YWM5NWQwNzM4MTA0ZTFjYzQ0ODllY2QwN2FjNmVjNjdhMTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODQxOGJiNDUyNDY5ZTBiYWM4ZWNhZjM4NjE1NzA3YWM5NWQwNzM4MTA0ZTFjYzQ0ODllY2QwN2FjNmVjNjdhMTBhIiwidWlkIjoiZTE1MzU2OTAyNzZjZGQyYWY5YmZkNjVhNGYyNDVlMTkiLCJ1c2VybmFtZSI6Im1pc2hyYTE0In0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA3MTU5NTM5LCJoYXNoIjoiYzFjNGEzN2Q4ZTRkNDE0MTgyZmFhNTZlNzJmMTY2ZGZhMGNjYWRlMDExMzM1MjAwMDhlZTJjZmYxZTVlMzFmZjMwMzFhNTUzNjE4MTIzODhmZjZiZTZmYzIyZDgxMDc5N2QyZDEyODk5ZTIyMWU3YzBhNGE1YWViYzViZjExZDEiLCJoYXNoX21ldGEiOiJmYzI3MGQyMWVkMTdiZDZiM2EyYzEwMGZlMTAxNTllMDU4YTA2ZjIwODY1ZThjMTgzNGI5N2VmMjRlYTdlNTcwIiwic2Vxbm8iOjE1MDI3Njd9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYW5raXRtaXNocmEubWUiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMzIn0sImN0aW1lIjoxNTA3MTU5NTYwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjlkNzU3NjJmYmQ3MWYwZjRhMTBlNDhhZTNmOTRiN2ZhNGQ1OWNlNDgzMzEwZjZlNTBhNzQzMmQzNTJhMjM2NjMiLCJzZXFubyI6MTAsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAzgmOGjqAl1Ec0T8BBUwB3VFQcNck8SKyZD+c+ATIsR9/xK4T8yf9y9JdKA0t8dFQPfpHJllEU4GIKz/zM0QUAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBFpyuQb58QgD38gyLu0fKcYPjJVEdqXJ1VkXY1cMBjfo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mishra14
+
+==================================================================
