@@ -254,7 +254,7 @@ display: inline-block;
   transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
 .banner {
-	background-image:  url(../images/intro-bg-2.jpg);
+	background-image:  url(../images/intro-bg.jpg);
     background-size:   cover;                      /* <------ */
     background-repeat: no-repeat;
     background-position: center center;            /* optionally, center the image */
