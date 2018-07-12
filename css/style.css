@@ -254,23 +254,17 @@ display: inline-block;
   transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
 .banner {
-	background-image:  url(../images/intro-bg.jpg);
+	background-image:  url(../images/intro-bg-2.jpg);
     background-size:   cover;                      /* <------ */
     background-repeat: no-repeat;
     background-position: center center;            /* optionally, center the image */
 	min-height: 600px;
-        position: relative;
-}
-.banner-info{
-    background: url(../images/intro-bg.jpg)no-repeat 0px 0px;
-    width: 500px;
-    height: 400px;
-    margin: 17.5% auto 0;
+    position: relative;
 }
 .banner-text{
-position: absolute;
-    left: 10em;
-	bottom:10em;
+	float: right;
+	margin-right: 2em;
+	margin-top: 20em;
 }
 .banner-text h1 {
 font-size: 2.6em;
@@ -279,6 +273,7 @@ font-size: 2.6em;
     text-transform: uppercase;
 }
 .banner-text h2 {
+	
     font-size: 1.1em;
     color: #fff;
     margin: 10px 0 20px;
